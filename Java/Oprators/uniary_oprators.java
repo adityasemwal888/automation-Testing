@@ -1,3 +1,5 @@
+package Oprators;
+
 public class uniary_oprators {
     public static void main(String[]args){
         //uniary oprators

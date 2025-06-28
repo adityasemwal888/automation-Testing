@@ -1,3 +1,5 @@
+package Java_Basics;
+
 public class Concatnation {
     // concatination is nothing but combing int or string
     // but here a thing combing string and integer can differ the whole thing
