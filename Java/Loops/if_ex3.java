@@ -1,6 +1,6 @@
 package Loops;
 
-public class while_Loop_ex3 {
+public class if_ex3 {
     public static void main(String[] args) {
         for (int i=0;i<=50;i++){
             if (i%2==0){
