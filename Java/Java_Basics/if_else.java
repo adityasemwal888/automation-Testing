@@ -36,3 +36,22 @@ class Java_Basics{
         }
     }
 }
+
+/*
+//even number code
+import java.util.Scanner;
+class Main {
+    public static void main(String[] args) {
+    Scanner scanner = new Scanner(System.in );
+    System.out.println("enter your desire number");
+    int x = scanner.nextInt();
+    if (x%2==0){
+        System.out.println("even");
+    for(int i=0; i<=10; i++){
+        System.out.print((x + i * 2) + " ");
+        }}else{
+    System.out.println("odd one");
+         }
+       }
+    }
+ */
