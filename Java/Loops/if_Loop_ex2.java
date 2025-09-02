@@ -1,9 +1,9 @@
 package Loops;
 
-public class While_Loop_ex2 {
+public class if_Loop_ex2 {
     public static void main(String[] args) {
-            for (int shruti=0; shruti<16; shruti++){
-                if (shruti>=16){
+            for (int shruti=0; shruti<20; shruti++){
+                if (shruti<=16){
                     System.out.println("HUGS ONLY");
                 }else
                    if (shruti>=17){
